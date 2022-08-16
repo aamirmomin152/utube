@@ -2,6 +2,8 @@ Project Details:
 
 Built out the UI for Utube using HTML and CSS
 
+![image](https://user-images.githubusercontent.com/30850440/184997035-c20a2132-852c-4298-a551-6d54479d5305.png)
+
 What I learned:
 
 1. HTML Basics
