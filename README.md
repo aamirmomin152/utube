@@ -4,18 +4,18 @@ Built out the UI for Utube using HTML and CSS
 
 What I learned:
 
-HTML Basics
-CSS Basics
-Hovers, Transitions, Shadows
-Chrome DevTools & CSS Box Model
-Text Styles
-The HTML Structure
-Images and Text Boxes
-CSS Display Property
-The div Element
-Nested Layouts Technique
-CSS Grid
-Flexbox
-Nested Flexbox
-CSS Position
-Position Absolute and Relative
+1. HTML Basics
+2. CSS Basics
+3. Hovers, Transitions, Shadows
+4. Chrome DevTools & CSS Box Model
+5. Text Styles
+6. The HTML Structure
+7. Images and Text Boxes
+8. CSS Display Property
+9. The div element
+10. Nested Layouts Technique
+11. CSS Grid
+12. Flexbox
+13. Nested Flexbox
+14. CSS Position
+15. Position Absolute and Relative
